@@ -14,6 +14,12 @@ img[src$='.jpg'] {
 {
   color: green;
 }
-[lang*='en-gb'] {
+span[lang*='en-gb'] {
+  font-size: 28px;
+}
+span[lang*='en'] {
+  font-size: 28px;
+}
+span[lang*='en-us'] {
   font-size: 28px;
 }
