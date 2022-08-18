@@ -7,7 +7,7 @@ img[src$='.jpg'] {
 [data-description~='even'] {
   background-color: grey;
 }
-[data-description~='even'] {
+[data-description*='even'] {
   font-size: 24px;
 }
 [href^="https://"]
